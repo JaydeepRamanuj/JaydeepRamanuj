@@ -64,6 +64,7 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 <img src="./techIcons/WordPress.png" width="40" height="40" title="WordPress"/>
 <img src="./techIcons/Shopify.png" width="40" height="40" title="Shopify"/>
 </div>
+
 ---
 
 ### 🔭 Recent Projects
