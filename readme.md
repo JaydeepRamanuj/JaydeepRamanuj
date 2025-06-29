@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Aryan (aka JD) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<h1 align="center">Hey there, I'm Jaydeep Ramanuj (aka JD) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 <p align="center">
   Aspiring Frontend Developer | learning, practicing and applying 🌱
