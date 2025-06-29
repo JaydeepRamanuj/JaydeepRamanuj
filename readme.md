@@ -24,7 +24,7 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 <img src="./techIcons/React.png" width="40" height="40" title="React"/>
 <img src="./techIcons/JavaScript.png" width="40" height="40" title="JavaScript"/>
 <img src="./techIcons/TypeScript.png" width="40" height="40" title="TypeScript"/>
-<img src="./techIcons/Next.js.png" width="40" height="40" title="Next"/>
+<img src="[./techIcons/Next.js.png](https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png)" width="40" height="40" title="Next"/>
 <img src="./techIcons/TailwindCSS.png" width="40" height="40" title="TailwindCSS"/>
 <img src="./techIcons/HTML5.png" width="40" height="40" title="HTML5"/>
 <img src="./techIcons/CSS3.png" width="40" height="40" title="CSS3"/>
@@ -42,7 +42,7 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 <img src="./techIcons/Clerk.png" width="40" height="40" title="Clerk"/>
 <img src="./techIcons/Recharts.png" width="40" height="40" title="Recharts"/>
 <img src="./techIcons/Framer-motion.png" width="40" height="40" title="Framer"/>
-<img src="./techIcons/Formik.png" width="40" height="40" title="Formik"/>
+<img src="[./techIcons/Formik.png](https://cdn.zapier.com/storage/developer_cli/20e6b8d4515c7e1ed6f1db25a2a3d3f2_2.png)" width="40" height="40" title="Formik"/>
 <img src="./techIcons/Jest.png" width="40" height="40" title="Jest"/>
 <img src="./techIcons/RTL.png" width="40" height="40" title="RTL"/>
 <img src="./techIcons/Firebase.png" width="40" height="40" title="Firebase"/>
