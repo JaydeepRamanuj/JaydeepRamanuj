@@ -21,10 +21,10 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 **Primary (FrontEnd) Skills**
 
 <div style="display:flex">
-<img src="./techIcons/React.png" width="40" height="40" title="React"/>
+<img src="./techIcons/React.png" width="40" height="40" title="React.js"/>
 <img src="./techIcons/JavaScript.png" width="40" height="40" title="JavaScript"/>
 <img src="./techIcons/TypeScript.png" width="40" height="40" title="TypeScript"/>
-<img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" width="40" height="40" title="Next"/>
+<img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" width="40" height="40" title="Next.js"/>
 <img src="./techIcons/TailwindCSS.png" width="40" height="40" title="TailwindCSS"/>
 <img src="./techIcons/HTML5.png" width="40" height="40" title="HTML5"/>
 <img src="./techIcons/CSS3.png" width="40" height="40" title="CSS3"/>
@@ -39,15 +39,15 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 <img src="./techIcons/Redux.png" width="40" height="40" title="Redux"/>
 <img src="./techIcons/Shadcn.png" width="40" height="40" title="Shadcn"/>
 <img src="./techIcons/MaterialUI.png" width="40" height="40" title="MaterialUI"/>
-<img src="./techIcons/Clerk.png" width="40" height="40" title="Clerk"/>
+<img src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=format" width="40" height="40" title="Clerk"/>
 <img src="./techIcons/Recharts.png" width="40" height="40" title="Recharts"/>
-<img src="./techIcons/Framer-motion.png" width="40" height="40" title="Framer"/>
+<img src="./techIcons/Framer-motion.png" width="40" height="40" title="Framer-motion"/>
 <img src="https://cdn.zapier.com/storage/developer_cli/20e6b8d4515c7e1ed6f1db25a2a3d3f2_2.png" width="40" height="40" title="Formik"/>
 <img src="./techIcons/Jest.png" width="40" height="40" title="Jest"/>
 <img src="./techIcons/RTL.png" width="40" height="40" title="RTL"/>
 <img src="./techIcons/Firebase.png" width="40" height="40" title="Firebase"/>
-<img src="./techIcons/Node.js.png" width="40" height="40" title="Node"/>
-<img src="./techIcons/Express.png" width="40" height="40" title="Express"/>
+<img src="./techIcons/Node.js.png" width="40" height="40" title="Node.js"/>
+<img src="./Express-white.png" width="40" height="40" title="Express.js"/>
 <img src="./techIcons/MongoDB.png" width="40" height="40" title="MongoDB"/>
 <img src="./techIcons/Postman.png" width="40" height="40" title="Postman"/>
 </div>
