@@ -20,6 +20,7 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 
 **Primary (FrontEnd) Skills**
 
+<div style="display:flex">
 <img src="./techIcons/React.png" width="40" height="40" title="React"/>
 <img src="./techIcons/JavaScript.png" width="40" height="40" title="JavaScript"/>
 <img src="./techIcons/TypeScript.png" width="40" height="40" title="TypeScript"/>
@@ -29,9 +30,11 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 <img src="./techIcons/CSS3.png" width="40" height="40" title="CSS3"/>
 <img src="./techIcons/Bootstrap.png" width="40" height="40" title="Bootstrap"/>
 <img src="./techIcons/Sass.png" width="40" height="40" title="Sass"/>
+</div>
 
 **Additional skills (+ BackEnd)**
 
+<div style="display:flex">
 <img src="./techIcons/Git.png" width="40" height="40" title="Git"/>
 <img src="./techIcons/Redux.png" width="40" height="40" title="Redux"/>
 <img src="./techIcons/Shadcn.png" width="40" height="40" title="Shadcn"/>
@@ -47,9 +50,11 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 <img src="./techIcons/Express.png" width="40" height="40" title="Express"/>
 <img src="./techIcons/MongoDB.png" width="40" height="40" title="MongoDB"/>
 <img src="./techIcons/Postman.png" width="40" height="40" title="Postman"/>
+</div>
 
 **Explored skills**
 
+<div style="display:flex">
 <img src="./techIcons/Python.png" width="40" height="40" title="Python"/>
 <img src="./techIcons/Flutter.png" width="40" height="40" title="Flutter"/>
 <img src="./techIcons/MySQL.png" width="40" height="40" title="MySQL"/>
@@ -58,7 +63,7 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 <img src="./techIcons/Linux.png" width="40" height="40" title="Linux"/>
 <img src="./techIcons/WordPress.png" width="40" height="40" title="WordPress"/>
 <img src="./techIcons/Shopify.png" width="40" height="40" title="Shopify"/>
-
+</div>
 ---
 
 ### 🔭 Recent Projects
