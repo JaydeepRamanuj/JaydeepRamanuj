@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Aryan (aka JD) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 <p align="center">
-  Aspiring Frontend Engineer | learning, practicing and applying 🌱
+  Aspiring Frontend Developer | learning, practicing and applying 🌱
 </p>
 
 ---
@@ -84,7 +84,7 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 - 🧱 Programming > Coding
 - 💡 Problem solving > Fancy Tech stack
 - 📈 Self and team growth
-- 🌱 Constant learning and teaching what I know
+- 🌱 Constant learning and teaching is what I know
 - 🧠 Thinking like a system designer — not just a coder
 
 ---
@@ -92,7 +92,7 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 ### 📫 Let's connect
 
 - 🌐 Portfolio: [jaydeep-ramanuj-portfolio.vercel.app](https://jaydeep-ramanuj-portfolio.vercel.app/)
-- 🧑‍💻 LinkedIn: [in/JaydeepRamanuj](https://www.linkedin.com/in/jaydeep-ramanuj)
+- 🧑‍💻 LinkedIn: [JaydeepRamanuj](https://www.linkedin.com/in/jaydeep-ramanuj)
 - 📩 Email: <jaydeepramanuj.jd@gmail.com>
 
 ---
