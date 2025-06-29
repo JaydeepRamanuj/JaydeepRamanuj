@@ -47,7 +47,7 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 <img src="./techIcons/RTL.png" width="40" height="40" title="RTL"/>
 <img src="./techIcons/Firebase.png" width="40" height="40" title="Firebase"/>
 <img src="./techIcons/Node.js.png" width="40" height="40" title="Node.js"/>
-<img src="./Express-white.png" width="40" height="40" title="Express.js"/>
+<img src="./techIcons/Express-white.png" width="40" height="40" title="Express.js"/>
 <img src="./techIcons/MongoDB.png" width="40" height="40" title="MongoDB"/>
 <img src="./techIcons/Postman.png" width="40" height="40" title="Postman"/>
 </div>
