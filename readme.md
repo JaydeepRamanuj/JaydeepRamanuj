@@ -40,15 +40,15 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 <img src="./techIcons/Shadcn.png" width="40" height="40" title="Shadcn"/>
 <img src="./techIcons/MaterialUI.png" width="40" height="40" title="MaterialUI"/>
 <img src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=format" width="40" height="40" title="Clerk"/>
-<img src="./techIcons/Recharts.png" width="40" height="40" title="Recharts"/>
+<img src="./techIcons/Recharts.png" width="70" height="40" title="Recharts"/>
 <img src="./techIcons/Framer-motion.png" width="40" height="40" title="Framer-motion"/>
 <img src="https://cdn.zapier.com/storage/developer_cli/20e6b8d4515c7e1ed6f1db25a2a3d3f2_2.png" width="40" height="40" title="Formik"/>
 <img src="./techIcons/Jest.png" width="40" height="40" title="Jest"/>
 <img src="./techIcons/RTL.png" width="40" height="40" title="RTL"/>
 <img src="./techIcons/Firebase.png" width="40" height="40" title="Firebase"/>
 <img src="./techIcons/Node.js.png" width="40" height="40" title="Node.js"/>
-<img src="./techIcons/Express-white.png" width="40" height="40" title="Express.js"/>
-<img src="./techIcons/MongoDB.png" width="40" height="40" title="MongoDB"/>
+<img src="./techIcons/Express-white.png" width="45" height="40" title="Express.js"/>
+<img src="./techIcons/MongoDB.png" width="60" height="40" title="MongoDB"/>
 <img src="./techIcons/Postman.png" width="40" height="40" title="Postman"/>
 </div>
 
