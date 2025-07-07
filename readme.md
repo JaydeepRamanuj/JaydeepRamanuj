@@ -69,7 +69,7 @@ I'm a self-driven frontend developer who wants to learn, practice and build stuf
 
 ### 🔭 Recent Projects
 
-- 🧠 **[Snippet Manager (Under development)](https://github.com/JaydeepRamanuj/Snippet-manager)** | **[Github](https://github.com/JaydeepRamanuj/Snippet-manager.git)** -- To organize frequently used code snippets
+- 🧠 **[Snippet Manager - V1](https://github.com/JaydeepRamanuj/Snippet-manager)** | **[Github](https://github.com/JaydeepRamanuj/Snippet-manager.git)** -- To organize frequently used code snippets
   => React + TS + Zustand + Shadcn + Monaco Editor + TipTap Editor + Node.js + Express.js + MongoDB + Clerk
 
 - 👨‍💼 **[Employee Portal](https://employee-portal-jd.netlify.app/)** — To Manage Employee and their attendances
